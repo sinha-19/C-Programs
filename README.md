@@ -67,7 +67,6 @@ Contributions are welcome! If you have an interesting C program or a better solu
 ## 🏷️ License
 
 This repository is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for more details.
 
 ---
 
